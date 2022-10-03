@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ## Connect with me on:
 
-[![sh-r](https://github.com/sh-r/sh-r/blob/76dd47acb1d04365e273712c2788900cd2f73afb/linkedin.svg)]([link to your URL](https://www.linkedin.com/in/shika-rao-ba8b90192/?originalSubdomain=in))
+[![sh-r](https://github.com/sh-r/sh-r/blob/76dd47acb1d04365e273712c2788900cd2f73afb/linkedin.svg)](https://www.linkedin.com/in/shika-rao-ba8b90192/?originalSubdomain=in)
