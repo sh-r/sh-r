@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ## Connect with me on:
 
-### <a href=”https://www.linkedin.com/in/shika-rao-ba8b90192/?originalSubdomain=in"><img align=”left” src=”https://raw.githubusercontent.com/sh-r/sh-r/main/images/linkedin.svg" alt=”Shika Rao | LinkedIn” width=”21px”/></a>
+! <a href=”https://www.linkedin.com/in/shika-rao-ba8b90192/?originalSubdomain=in"><img align=”left” src=”https://raw.githubusercontent.com/sh-r/sh-r/main/images/linkedin.svg" alt=”Shika Rao | LinkedIn” width=”21px”/></a>
