@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ### Hi, I am Shika
 
  🔭 I’m currently working on Visual Transformers for Object Detection. <br />
- 👯 I’m interested in Computer Vision, Medical Imaging, and Robotics. 
+ 👯 I’m interested in Computer Vision, Medical Imaging, and Robotics. <br />
  📫 How to reach me: shikarao2018@gmail.com <br />
 
 ## Connect with me on:
