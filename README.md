@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ### Hi, I am Shika
 
- 👯 I’m interested in Computer Vision, Medical Imaging, and Robotics. <br />
+ 👯 I’m interested in Computer Vision, AI and Machine Learning. <br />
  📫 How to reach me: shikarao2023@gmail.com <br />
 
 ## Connect with me on:
