@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ### Hi, I am Shika
 
- 👯 I’m interested in Software and my hobby projects are in all aspects of multimodal LLMs! <br />
+ 👯 I’m interested in software and my hobby projects are in all aspects of multimodal LLMs! <br />
  📫 How to reach me: shikarao2023@gmail.com <br />
 
 ## Connect with me on:
